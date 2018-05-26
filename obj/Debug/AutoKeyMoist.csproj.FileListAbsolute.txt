@@ -1,0 +1,10 @@
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\bin\Debug\AutoKeyMoist.exe.config
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\bin\Debug\AutoKeyMoist.exe
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\bin\Debug\AutoKeyMoist.pdb
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\obj\Debug\AutoKeyMoist.csprojAssemblyReference.cache
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\obj\Debug\AutoKeyMoist.Form1.resources
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\obj\Debug\AutoKeyMoist.Properties.Resources.resources
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\obj\Debug\AutoKeyMoist.csproj.GenerateResource.cache
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\obj\Debug\AutoKeyMoist.csproj.CoreCompileInputs.cache
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\obj\Debug\AutoKeyMoist.exe
+D:\Programming Stuff\AutoKeyMoist\AutoKeyMoist\obj\Debug\AutoKeyMoist.pdb
